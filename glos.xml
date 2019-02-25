@@ -22,12 +22,71 @@
           <head>French Expressions repond to English and Japanese</head>
           <entry>
                <form>
-                  <term xml:id="wh3_v33_wgb"> pose divers problèmes de réception</term>
-                  <gloss target="#wh3_v33_wgb">
+                  <term xml:id="1"> pose divers problèmes de réception</term>
+                  <gloss target="1">
                      <foreign xml:lang="en"> has posed diverse problems of reception</foreign>
                      <foreign xml:lang="ja">その受容に様々な問題が生じてきた</foreign>
                   </gloss>
+                  <bibl type="monogr">
+                    <title>Alfred Jarry, le colin-maillard cérébral</title>
+                    <author>Julien Schuh</author>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Édition Champion</publisher>
+                    <data when="2014">2014</data>
+                    <citedRange unit="page">15</citedRange>
+                  </bibl>
                </form>
+               <form>
+                 <term xml:id="2">Or, à notre connaissance, aucune étude systématique n'est encore effectuée à ce sujet jusqu'à perésent</term>
+                 <gross target="2">
+                   <foreign xml:lang="en">Now, as far as we know, previous studies hadn't been yet sufficient to examine this theme up to the present</foreign>
+                   <foreign xml:lang="ja">さて，管見の限り，先行研究ではこの主題は今日までいまだ十分に掘り下げられてこなかった</foreign>
+                 </gross>
+                 <bibl type="article">
+                   <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                    <author>E. Nakamura</author>
+                    <bib type="monogr">
+                      <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Gallimar</publisher>
+                    <data when="1987">1987</data>
+                    <citedRange unit="page">190</citedRange>
+                  </bibl>
+                </form>
+                <form>
+                 <term xml:id="3">si l'on omet celle de AUTEUR dans ŒUVRE où il donne des remarques très pertinentes sur ETC.</term>
+                 <gross target="3">
+                   <foreign xml:lang="en">if one omit that of AUTHER in WORK which s/he remakes pertinently on ETC</foreign>
+                   <foreign xml:lang="ja">もしも，その人が適切に【これこれ】について評している，【著作】での【論者】のそれを言い落とすのであれば</foreign>
+                 </gross>
+                 <bibl type="article">
+                   <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                    <author>E. Nakamura</author>
+                    <bib type="monogr">
+                      <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Gallimar</publisher>
+                    <data when="1987">1987</data>
+                    <citedRange unit="page">190</citedRange>
+                  </bibl>
+                </form>
+                <form>
+                 <term xml:id="4">La quetion revêt une importance particulière lorsque ... </term>
+                 <gross target="3">
+                   <foreign xml:lang="en">The question takes on an particuler importance when/where ...</foreign>
+                   <foreign xml:lang="ja">その問いは独自の重要性を示しているのは，．．．の場合／時だ．</foreign>
+                 </gross>
+                 <bibl type="article">
+                   <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                    <author>E. Nakamura</author>
+                    <bib type="monogr">
+                      <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Gallimar</publisher>
+                    <data when="1987">1987</data>
+                    <citedRange unit="page">190</citedRange>
+                  </bibl>
+                </form>
             </entry>
         </div>
       </body>
