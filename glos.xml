@@ -38,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </bibl>
         </list>
         <list>
-          <label xml:id="2">Or, à notre connaissance, aucune étude systématique n'est encore effectuée à ce sujet jusqu'à perésent</term>
+          <label xml:id="2">Or, à notre connaissance, aucune étude systématique n'est encore effectuée à ce sujet jusqu'à perésent</label>
           <item>
             <list>
               <item xml:lang="en">Now, as far as we know, previous studies hadn't been yet sufficient to examine this theme up to the present</item>
@@ -57,7 +57,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </bibl>
           </list>
           <list>
-            <label xml:id="3">si l'on omet celle de AUTEUR dans ŒUVRE où il donne des remarques très pertinentes sur ETC.</term>
+            <label xml:id="3">si l'on omet celle de AUTEUR dans ŒUVRE où il donne des remarques très pertinentes sur ETC.</label>
             <item>
               <list>
                 <item xml:lang="en">if one omit that of AUTHER in WORK which s/he remakes pertinently on ETC</item>
@@ -77,7 +77,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               </bibl>
             </list>
             <list>
-              <label xml:id="4">La quetion revêt une importance particulière lorsque ... </term>
+              <label xml:id="4">La quetion revêt une importance particulière lorsque ... </label>
               <item>
                 <list>
                   <item xml:lang="en">The question takes on an particuler importance when/where ...</item>
@@ -96,7 +96,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </bibl>
               </list>
               <list>
-              <label xml:id="5">SUJET s'est arrêté au OBJET</term>
+              <label xml:id="5">SUJET s'est arrêté au OBJET</label>
               <item>
                 <list>
                   <item xml:lang="en"></item>
@@ -115,7 +115,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </bibl>
               </list>
               <list>
-              <label xml:id="6">En voici deux examples les plus patentes.</term>
+              <label xml:id="6">En voici deux examples les plus patentes.</label>
               <item>
                 <list>
                   <item xml:lang="en"></item>
@@ -153,7 +153,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </bibl>
               </list>
               <list>
-              <label xml:id="8">Et nous ne voyons pas de différence de nature entre les trois catégories du passé composé que nous venons de grouper.</term>
+              <label xml:id="8">Et nous ne voyons pas de différence de nature entre les trois catégories du passé composé que nous venons de grouper.</label>
               <item>
                 <list>
                   <item xml:lang="en">Therefore, we will not take up the inherent difference between three categories of composed past which we have grouped.</item>
@@ -172,11 +172,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </bibl>
               </list>
             <list>
-              <label xml:id=""></term>
+              <label xml:id="9">D'après les exemples que nous venons d'examiner</label>
               <item>
                 <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
+                  <item xml:lang="en">Examples which we have examined shows that ... </item>
+                  <item xml:lang="ja">私たちが調べてきた例にしたがえば，</item>
                 </list>
               </item>
               <bibl type="article">
@@ -187,15 +187,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <pubPlace>Paris</pubPlace>
                   <publisher>Gallimar</publisher>
                   <data when="1987">1987</data>
-                  <citedRange unit="page"></citedRange>
+                  <citedRange unit="page">205</citedRange>
                 </bibl>
               </list>
               <list>
-              <label xml:id=""></term>
+                <label xml:id="10">Il est très probale que</label>
               <item>
                 <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
+                  <item xml:lang="en">It is likely that</item>
+                  <item xml:lang="ja">おそらく．．．ということだろう</item>
                 </list>
               </item>
               <bibl type="article">
@@ -206,15 +206,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <pubPlace>Paris</pubPlace>
                   <publisher>Gallimar</publisher>
                   <data when="1987">1987</data>
-                  <citedRange unit="page"></citedRange>
+                  <citedRange unit="page">207</citedRange>
                 </bibl>
               </list>
               <list>
-              <label xml:id=""></term>
+              <label xml:id="11">Il nous semble de taille à confirmer l'hypothèse.</label>
               <item>
                 <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
+                  <item xml:lang="en">It seems to prove the hypothesis.</item>
+                  <item xml:lang="ja">私たちには仮説を証明するのに十分なように思われる．</item>
                 </list>
               </item>
               <bibl type="article">
