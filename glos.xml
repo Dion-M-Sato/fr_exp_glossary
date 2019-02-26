@@ -95,6 +95,139 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page">190</citedRange>
                 </bibl>
               </list>
+              <list>
+              <label xml:id="5">SUJET s'est arrêté au OBJET</term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page">191</citedRange>
+                </bibl>
+              </list>
+              <list>
+              <label xml:id="6">En voici deux examples les plus patentes.</term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page">191</citedRange>
+                </bibl>
+              </list>
+              <list>
+              <label xml:id="7">Le choix de A ne nous semble pas l'effet d'un hasard ou d'un goût du moment.</term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page">192</citedRange>
+                </bibl>
+              </list>
+              <list>
+              <label xml:id="8">Et nous ne voyons pas de différence de nature entre les trois catégories du passé composé que nous venons de grouper.</term>
+              <item>
+                <list>
+                  <item xml:lang="en">Therefore, we will not take up the inherent difference between three categories of composed past which we have grouped.</item>
+                  <item xml:lang="ja">そういうわけで，私たちは，分類した複合過去のカテゴリーの間にある本質的な差異については検討しない．</item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page">201-202</citedRange>
+                </bibl>
+              </list>
+            <list>
+              <label xml:id=""></term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page"></citedRange>
+                </bibl>
+              </list>
+              <list>
+              <label xml:id=""></term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page"></citedRange>
+                </bibl>
+              </list>
+              <list>
+              <label xml:id=""></term>
+              <item>
+                <list>
+                  <item xml:lang="en"></item>
+                  <item xml:lang="ja"></item>
+                </list>
+              </item>
+              <bibl type="article">
+                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                <author>E. Nakamura</author>
+                <bib type="monogr">
+                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Gallimar</publisher>
+                  <data when="1987">1987</data>
+                  <citedRange unit="page"></citedRange>
+                </bibl>
+              </list>
             </div>
           </body>
         </text>
