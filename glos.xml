@@ -228,6 +228,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <citedRange unit="page"></citedRange>
                 </bibl>
               </list>
+              <list>
+                <label xml:id="12">les lieux que elle [=Mme Swann] aura enchantés portent en les personnages la trace et la charme qui leur vient de la mémoire. Ils sont comme les précieux conduits d'un temps révolu. De là : (citation)</label>
+              <item>
+                <list>
+                  <item xml:lang="en">Places which will have enchanted her take on the traces in the characters and the charms which come into them from memory. Those are as the most precious ingredients of a time passed. Here : </item>
+                  <item xml:lang="ja">スワン夫人を魅了することになった場所は登場人物たちの中に痕跡を見せ，その記憶からくる人々に現れる魅力を備えている．そうした場所は過ぎ去っていた時のうち最もかけがえのない導きなのだ．それは次の通りだ．</item>
+                </list>
+              </item>
+                <bib type="monogr">
+                  <title>Singularité et sujet: une lecture phénoménologique de Proust</title>
+                  <pubPlace>Paris</pubPlace>
+                  <publisher>Editions Jérôme Millon</publisher>
+                  <data when="2000">2000</data>
+                  <citedRange unit="page">102</citedRange>
+                </bibl>
+              </list>
             </div>
           </body>
         </text>
