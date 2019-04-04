@@ -42,7 +42,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <item>
             <list>
               <item xml:lang="en">Now, as far as we know, previous studies hadn't been yet sufficient to examine this theme up to the present</item>
-              <item xml:lang="ja">さて，管見の限り，先行研究ではこの主題は今日までいまだ十分に掘り下げられてこなかった</item>
+              <item xml:lang="ja">さて、管見の限り、先行研究ではこの主題は今日までいまだ十分に掘り下げられてこなかった</item>
             </list>
           </item>
           <bibl type="article">
@@ -61,7 +61,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <item>
               <list>
                 <item xml:lang="en">if one omit that of AUTHER in WORK which s/he remakes pertinently on ETC</item>
-                <item xml:lang="ja">もしも，その人が適切に【これこれ】について評している，【著作】の中で【論者】が述べているそれを言い落とすのであれば</item>
+                <item xml:lang="ja">もしも、その人が適切に【これこれ】について評している、【著作】の中で【論者】が述べているそれを言い落とすのであれば</item>
               </list>
             </item>
 
@@ -81,7 +81,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <item>
                 <list>
                   <item xml:lang="en">The question takes on an particuler importance when/where ...</item>
-                  <item xml:lang="ja">その問いは独自の重要性を示しているのは，．．．の場合／時だ．</item>
+                  <item xml:lang="ja">その問いは独自の重要性を示しているのは、。。。の場合／時だ。</item>
                 </list>
               </item>
               <bibl type="article">
@@ -96,155 +96,227 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 </bibl>
               </list>
               <list>
-              <label xml:id="5">SUJET s'est arrêté au OBJET</label>
-              <item>
-                <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
+                <label xml:id="5">SUJET s'est arrêté au OBJET</label>
+                <item>
+                  <list>
+                    <item xml:lang="en"></item>
+                    <item xml:lang="ja"></item>
+                  </list>
+                </item>
+                <bibl type="article">
+                  <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                  <author>E. Nakamura</author>
+                  <bib type="monogr">
+                    <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Gallimar</publisher>
+                    <data when="1987">1987</data>
+                    <citedRange unit="page">191</citedRange>
+                  </bibl>
                 </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">191</citedRange>
-                </bibl>
-              </list>
-              <list>
-              <label xml:id="6">En voici deux examples les plus patentes.</label>
-              <item>
                 <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">191</citedRange>
-                </bibl>
-              </list>
-              <list>
-              <label xml:id="7">Le choix de A ne nous semble pas l'effet d'un hasard ou d'un goût du moment.</term>
-              <item>
-                <list>
-                  <item xml:lang="en"></item>
-                  <item xml:lang="ja"></item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">192</citedRange>
-                </bibl>
-              </list>
-              <list>
-              <label xml:id="8">Et nous ne voyons pas de différence de nature entre les trois catégories du passé composé que nous venons de grouper.</label>
-              <item>
-                <list>
-                  <item xml:lang="en">Therefore, we will not take up the inherent difference between three categories of composed past which we have grouped.</item>
-                  <item xml:lang="ja">そういうわけで，私たちは，分類した複合過去のカテゴリーの間にある本質的な差異については検討しない．</item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">201-202</citedRange>
-                </bibl>
-              </list>
-            <list>
-              <label xml:id="9">D'après les exemples que nous venons d'examiner</label>
-              <item>
-                <list>
-                  <item xml:lang="en">Examples which we have examined shows that ... </item>
-                  <item xml:lang="ja">私たちが調べてきた例にしたがえば，</item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">205</citedRange>
-                </bibl>
-              </list>
-              <list>
-                <label xml:id="10">Il est très probale que</label>
-              <item>
-                <list>
-                  <item xml:lang="en">It is likely that</item>
-                  <item xml:lang="ja">おそらく．．．ということだろう</item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page">207</citedRange>
-                </bibl>
-              </list>
-              <list>
-              <label xml:id="11">Il nous semble de taille à confirmer l'hypothèse.</label>
-              <item>
-                <list>
-                  <item xml:lang="en">It seems to prove the hypothesis.</item>
-                  <item xml:lang="ja">私たちには仮説を証明するのに十分なように思われる．</item>
-                </list>
-              </item>
-              <bibl type="article">
-                <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
-                <author>E. Nakamura</author>
-                <bib type="monogr">
-                  <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Gallimar</publisher>
-                  <data when="1987">1987</data>
-                  <citedRange unit="page"></citedRange>
-                </bibl>
-              </list>
-              <list>
-                <label xml:id="12">les lieux que elle [=Mme Swann] aura enchantés portent en les personnages la trace et la charme qui leur vient de la mémoire. Ils sont comme les précieux conduits d'un temps révolu. De là : (citation)</label>
-              <item>
-                <list>
-                  <item xml:lang="en">Places which will have enchanted her take on the traces in the characters and the charms which come into them from memory. Those are as the most precious ingredients of a time passed. Here : </item>
-                  <item xml:lang="ja">スワン夫人を魅了することになった場所は登場人物たちの中に痕跡を見せ，その記憶からくる人々に現れる魅力を備えている．そうした場所は過ぎ去っていた時のうち最もかけがえのない導きなのだ．それは次の通りだ．</item>
-                </list>
-              </item>
-                <bib type="monogr">
-                  <title>Singularité et sujet: une lecture phénoménologique de Proust</title>
-                  <pubPlace>Paris</pubPlace>
-                  <publisher>Editions Jérôme Millon</publisher>
-                  <data when="2000">2000</data>
-                  <citedRange unit="page">102</citedRange>
-                </bibl>
-              </list>
-            </div>
-          </body>
-        </text>
-      </TEI>
+                  <label xml:id="6">En voici deux examples les plus patentes.</label>
+                  <item>
+                    <list>
+                      <item xml:lang="en"></item>
+                      <item xml:lang="ja"></item>
+                    </list>
+                  </item>
+                  <bibl type="article">
+                    <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                    <author>E. Nakamura</author>
+                    <bib type="monogr">
+                      <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                      <pubPlace>Paris</pubPlace>
+                      <publisher>Gallimar</publisher>
+                      <data when="1987">1987</data>
+                      <citedRange unit="page">191</citedRange>
+                    </bibl>
+                  </list>
+                  <list>
+                    <label xml:id="7">Le choix de A ne nous semble pas l'effet d'un hasard ou d'un goût du moment.</term>
+                    <item>
+                      <list>
+                        <item xml:lang="en"></item>
+                        <item xml:lang="ja"></item>
+                      </list>
+                    </item>
+                    <bibl type="article">
+                      <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                      <author>E. Nakamura</author>
+                      <bib type="monogr">
+                        <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Gallimar</publisher>
+                        <data when="1987">1987</data>
+                        <citedRange unit="page">192</citedRange>
+                      </bibl>
+                    </list>
+                    <list>
+                      <label xml:id="8">Et nous ne voyons pas de différence de nature entre les trois catégories du passé composé que nous venons de grouper.</label>
+                      <item>
+                        <list>
+                          <item xml:lang="en">Therefore, we will not take up the inherent difference between three categories of composed past which we have grouped.</item>
+                          <item xml:lang="ja">そういうわけで、私たちは、分類した複合過去のカテゴリーの間にある本質的な差異については検討しない。</item>
+                        </list>
+                      </item>
+                      <bibl type="article">
+                        <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                        <author>E. Nakamura</author>
+                        <bib type="monogr">
+                          <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                          <pubPlace>Paris</pubPlace>
+                          <publisher>Gallimar</publisher>
+                          <data when="1987">1987</data>
+                          <citedRange unit="page">201-202</citedRange>
+                        </bibl>
+                      </list>
+                      <list>
+                        <label xml:id="9">D'après les exemples que nous venons d'examiner</label>
+                        <item>
+                          <list>
+                            <item xml:lang="en">Examples which we have examined shows that ... </item>
+                            <item xml:lang="ja">私たちが調べてきた例にしたがえば、</item>
+                          </list>
+                        </item>
+                        <bibl type="article">
+                          <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                          <author>E. Nakamura</author>
+                          <bib type="monogr">
+                            <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Gallimar</publisher>
+                            <data when="1987">1987</data>
+                            <citedRange unit="page">205</citedRange>
+                          </bibl>
+                        </list>
+                        <list>
+                          <label xml:id="10">Il est très probale que</label>
+                          <item>
+                            <list>
+                              <item xml:lang="en">It is likely that</item>
+                              <item xml:lang="ja">おそらく。。。ということだろう</item>
+                            </list>
+                          </item>
+                          <bibl type="article">
+                            <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                            <author>E. Nakamura</author>
+                            <bib type="monogr">
+                              <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                              <pubPlace>Paris</pubPlace>
+                              <publisher>Gallimar</publisher>
+                              <data when="1987">1987</data>
+                              <citedRange unit="page">207</citedRange>
+                            </bibl>
+                          </list>
+                          <list>
+                            <label xml:id="11">Il nous semble de taille à confirmer l'hypothèse.</label>
+                            <item>
+                              <list>
+                                <item xml:lang="en">It seems to prove the hypothesis.</item>
+                                <item xml:lang="ja">私たちには仮説を証明するのに十分なように思われる。</item>
+                              </list>
+                            </item>
+                            <bibl type="article">
+                              <title>Le passé composé dans <emph style="font-style:italic">À la recherche du temps perdu</emph></title>
+                              <author>E. Nakamura</author>
+                              <bib type="monogr">
+                                <title>Cahier Marcel Proust 14 Études proustiennes VI</title>
+                                <pubPlace>Paris</pubPlace>
+                                <publisher>Gallimar</publisher>
+                                <data when="1987">1987</data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="12">les lieux que elle [=Mme Swann] aura enchantés portent en les personnages la trace et la charme qui leur vient de la mémoire. Ils sont comme les précieux conduits d'un temps révolu. De là : (citation)</label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en">Places which will have enchanted her take on the traces in the characters and the charms which come into them from memory. Those are as the most precious ingredients of a time passed. Here : </item>
+                                  <item xml:lang="ja">スワン夫人を魅了することになった場所は登場人物たちの中に痕跡を見せ、その記憶からくる人々に現れる魅力を備えている。そうした場所は過ぎ去っていた時のうち最もかけがえのない導きなのだ。それは次の通りだ。</item>
+                                </list>
+                              </item>
+                              <bibl type="monogr">
+                                <title>Singularité et sujet: une lecture phénoménologique de Proust</title>
+                                <author>Roland Breeur</author>
+                                <pubPlace>Paris</pubPlace>
+                                <publisher>Editions Jérôme Millon</publisher>
+                                <data when="2000">2000</data>
+                                <citedRange unit="page">102</citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="13">Sa profonde préoccupation peut se lire, par exemple, dans ce résumé de cours:</label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en">For exemple, his deep concern could be read in this syllubus:</item>
+                                  <item xml:lang="ja">例えば、彼の深い関心は以下のシラバスからも見てとれる。</item>
+                                </list>
+                              </item>
+                              <bibl type="article">
+                                <title>Poétique et Économie politique Valéry lecteur de Marx et Walras</title>
+                                <author>Hiroaki Yamada</author>
+                                <bibl type="monogr">  
+                                <title>LITTERA : Revue de Langue et Littérature Françaises</title>
+                                <pubPlace>Tokyo</pubPlace>
+                                <publisher>Inscript Inc.</publisher>
+                                <data when="2019">2019</data>
+                                </bibl>
+                                <citedRange unit="page">74</citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="14"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bib type="monogr">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when="2000"></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="15"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="16"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                          </div>
+                        </body>
+                      </text>
+                    </TEI>
