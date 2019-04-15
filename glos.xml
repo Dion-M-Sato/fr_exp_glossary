@@ -81,7 +81,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <item>
                 <list>
                   <item xml:lang="en">The question takes on an particuler importance when/where ...</item>
-                  <item xml:lang="ja">その問いは独自の重要性を示しているのは、。。。の場合／時だ。</item>
+                  <item xml:lang="ja">その問いは独自の重要性を示しているのは、・・・・の場合／時だ。</item>
                 </list>
               </item>
               <bibl type="article">
@@ -266,37 +266,40 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                               </bibl>
                             </list>
                             <list>
-                              <label xml:id="14"></label>
+                              <label xml:id="14">Il faut également réfléchir plus en profondeur à la chose suivante : </label>
                               <item>
                                 <list>
-                                  <item xml:lang="en"></item>
-                                  <item xml:lang="ja"></item>
+                                  <item xml:lang="en">It also needs to consider deeply on this : </item>
+                                  <item xml:lang="ja">次のようなことについてもさらに深く考察するべきなのだ。</item>
                                 </list>
                               </item>
+                              <bib type="article">
+                                <title>L'exsitence de la mémoire : Henri Bergson et Walter Benjamin</title>
+                                <author>Higaki Tatsuya</author>
+                              </bib>
                               <bib type="monogr">
-                                <title></title>
-                                <author></author>
-                                <pubPlace></pubPlace>
+                                <title>Philosophie Osaka</title>
                                 <publisher></publisher>
-                                <data when="2000"></data>
-                                <citedRange unit="page"></citedRange>
+                                <data when="2010">2010</data>
+                                <bibleScope unite="volume">5</bibleScope>
+                                <citedRange unit="page">p. 4</citedRange>
                               </bibl>
                             </list>
                             <list>
-                              <label xml:id="15"></label>
+                              <label xml:id="15">le chemin de Proust croise celui d'un homme auquel il sera souvent comparé</label>
                               <item>
                                 <list>
-                                  <item xml:lang="en"></item>
-                                  <item xml:lang="ja"></item>
+                                  <item xml:lang="en">Proust's path cross the one of a man who he will be often compared.</item>
+                                  <item xml:lang="ja">プルーストの道は頻繁に比べられることになるだろうある男の道と交わった。</item>
                                 </list>
                               </item>
-                              <bibl type="">
-                                <title></title>
-                                <author></author>
-                                <pubPlace></pubPlace>
-                                <publisher></publisher>
-                                <data when=""></data>
-                                <citedRange unit="page"></citedRange>
+                              <bibl type="monogr">
+                                <title>Marcel Proust Biographie</title>
+                                <author>Jean-Yves Tadié</author>
+                                <pubPlace>Paris</pubPlace>
+                                <publisher>Gallimard</publisher>
+                                <data when="1996">1996</data>
+                                <citedRange unit="page">162</citedRange>
                               </bibl>
                             </list>
                             <list>
