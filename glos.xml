@@ -38,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </bibl>
         </list>
         <list>
-          <label xml:id="2">Or, à notre connaissance, aucune étude systématique n'est encore effectuée à ce sujet jusqu'à perésent</label>
+          <label xml:id="2">Or, à notre connaissance, aucune étude systématique n'est encore effectuée à ce sujet jusqu'à présent</label>
           <item>
             <list>
               <item xml:lang="en">Now, as far as we know, previous studies hadn't been yet sufficient to examine this theme up to the present</item>
@@ -61,7 +61,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <item>
               <list>
                 <item xml:lang="en">if one omit that of AUTHER in WORK which s/he remakes pertinently on ETC</item>
-                <item xml:lang="ja">もしも、その人が適切に【これこれ】について評している、【著作】の中で【論者】が述べているそれを言い落とすのであれば</item>
+                <item xml:lang="ja">もしも、その人が適切に【これこれ】について評している【著作】の中で【論者】が述べているそれを省いているのであれば</item>
               </list>
             </item>
 
@@ -81,7 +81,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <item>
                 <list>
                   <item xml:lang="en">The question takes on an particuler importance when/where ...</item>
-                  <item xml:lang="ja">その問いは独自の重要性を示しているのは、・・・・の場合／時だ。</item>
+                  <item xml:lang="ja">その問いが独自の重要性を示しているのは、・・・・の場合／時だ。</item>
                 </list>
               </item>
               <bibl type="article">
