@@ -303,7 +303,228 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                               </bibl>
                             </list>
                             <list>
-                              <label xml:id="16"></label>
+                              <label xml:id="16">« ... ». Et Proust d'ajouter : « ... ».</label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en">"...". And Roust added, "...".</item>
+                                  <item xml:lang="ja">「・・・」、そしてプルーストはこうも述べた、「・・・」。</item>
+                                </list>
+                              </item>
+                              <bibl type="monogr">
+                                <title>original</title>
+                                <author>Dion Masanao Sato</author>
+                                <pubPlace>null</pubPlace>
+                                <publisher>null</publisher>
+                                <data when="2019">2019</data>
+                                <citedRange unit="page">null</citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17">Or, quelle que soit la courbe proposée, il est aisé de se convaincre, même sans figure, que (...)</label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en">Anyway, whatever the proposed curve, it's easy de convince, even if without figures, that (...)</item>
+                                  <item xml:lang="ja">いずれにせよ、考えられた曲線は、図がなくとも、（・・・）というのは確かだ。</item>
+                                </list>
+                              </item>
+                              <bibl type="monogr">
+                                <title>Théorie des fonctions analytiques</title>
+                                <author>Joseph-Louis Lagrange</author>
+                                <pubPlace>Paris</pubPlace>
+                                <publisher>Imprimerie de la République</publisher>
+                                <data when="1797">1797</data>
+                                <citedRange unit="page">p. 155</citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
+                              <item>
+                                <list>
+                                  <item xml:lang="en"></item>
+                                  <item xml:lang="ja"></item>
+                                </list>
+                              </item>
+                              <bibl type="">
+                                <title></title>
+                                <author></author>
+                                <pubPlace></pubPlace>
+                                <publisher></publisher>
+                                <data when=""></data>
+                                <citedRange unit="page"></citedRange>
+                              </bibl>
+                            </list>
+                            <list>
+                              <label xml:id="17"></label>
                               <item>
                                 <list>
                                   <item xml:lang="en"></item>
