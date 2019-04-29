@@ -337,11 +337,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                               </bibl>
                             </list>
                             <list>
-                              <label xml:id="17"></label>
+                              <label xml:id="18">Son roman a vu le jour dix ans après sa mort.</label>
                               <item>
                                 <list>
-                                  <item xml:lang="en"></item>
-                                  <item xml:lang="ja"></item>
+                                  <item xml:lang="en">His/her novel opened to the light for 10 years after his/her death.</item>
+                                  <item xml:lang="ja">著者の小説はその死後10年が経ってから出版された。</item>
                                 </list>
                               </item>
                               <bibl type="">
