@@ -306,7 +306,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                               <label xml:id="16">« ... ». Et Proust d'ajouter : « ... ».</label>
                               <item>
                                 <list>
-                                  <item xml:lang="en">"...". And Roust added, "...".</item>
+                                  <item xml:lang="en">"...". And Proust added, "...".</item>
                                   <item xml:lang="ja">「・・・」、そしてプルーストはこうも述べた、「・・・」。</item>
                                 </list>
                               </item>
